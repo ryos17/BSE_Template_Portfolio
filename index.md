@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# 8x32 LED High Performance Audio Monitor
+An audio monitor is usually used in studios to express music in the form of audio. For example, the speakers you see in studios are called audio monitors. A lot of musicians utilize audio monitors to playback music and visualize sound. In this project, I attempted to create monitor where the audio spectrum is expressed visually through a 8x32 RGB LED Matrix.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Ryota Sato | Adrian Wilcox High School | Audio/ Electrical/ Software Engineer | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
