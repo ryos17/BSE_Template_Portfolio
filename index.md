@@ -19,11 +19,10 @@ Finally, I was able to combine both examples and modify the code so that wheneve
 # Circuit
 ![circuit](https://user-images.githubusercontent.com/69173660/123160342-e91e8480-d422-11eb-954e-6819badc5ad1.png)
 
-# Code 
-Arduino Code:
+# Arduino Code 
 ![Processing code 1](https://user-images.githubusercontent.com/69173660/123162027-f8063680-d424-11eb-9997-96e63bac58df.png)
 
-Processing Code:
+# Processing Code:
 ![Arduino Code 1](https://user-images.githubusercontent.com/69173660/123162043-fdfc1780-d424-11eb-945d-50c603534dfe.png)
 
 
