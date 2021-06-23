@@ -14,7 +14,7 @@ My other part of the milestone was lighting up the LED matrix. First thing I did
 
 Finally, I was able to combine both examples and modify the code so that whenever the mouse is hovered over the square, the matrix turns red and if the mouse is off the square, the matrix turns green. The video below explains important bug fixes and a demonstration of this code. 
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JOaKPQlaxiY?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JOaKPQlaxiY?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
