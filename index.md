@@ -18,10 +18,10 @@ Finally, I was able to combine both examples and modify the code so that wheneve
 ![circuit](https://user-images.githubusercontent.com/69173660/123160342-e91e8480-d422-11eb-954e-6819badc5ad1.png)
 
 ### Arduino Code:
-![Processing code 1](https://user-images.githubusercontent.com/69173660/123162027-f8063680-d424-11eb-9997-96e63bac58df.png)
+![Arduino Code 1](https://user-images.githubusercontent.com/69173660/123162043-fdfc1780-d424-11eb-945d-50c603534dfe.png)
 
 ### Processing Code:
-![Arduino Code 1](https://user-images.githubusercontent.com/69173660/123162043-fdfc1780-d424-11eb-945d-50c603534dfe.png)
+![Processing code 1](https://user-images.githubusercontent.com/69173660/123162027-f8063680-d424-11eb-9997-96e63bac58df.png)
 
 ### Video:
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/JOaKPQlaxiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
