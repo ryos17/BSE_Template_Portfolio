@@ -12,10 +12,7 @@ My first milestone is sending data from processing to arduino, and then lighting
 
 My other part of the milestone was lighting up the LED matrix. First thing I did to acheive this milestone was to download the library used for the LED matrix. Then, I looked at an example called matrixtest. In this example, the LED matrix displayed words and letters depending on the code. Through this code, I was able to understand how to setup a matrix, and functions which lights up speicifc pixels, screens, and colors. 
 
-Finally, I was able to combine both examples and modify the code so that whenever the mouse is hovered over the square, the matrix turns red and if the mouse is off the square, the matrix turns green. The video below explains important bug fixes and a demonstration of this code. 
-
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JOaKPQlaxiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
-
+Finally, I was able to combine both examples and modify the code so that whenever the mouse is hovered over the square, the matrix turns red and if the mouse is off the square, the matrix turns green. Circuit and video below explains important bug fixes and a demonstration of this code. 
 
 ### Circuit:
 ![circuit](https://user-images.githubusercontent.com/69173660/123160342-e91e8480-d422-11eb-954e-6819badc5ad1.png)
@@ -25,6 +22,10 @@ Finally, I was able to combine both examples and modify the code so that wheneve
 
 ### Processing Code:
 ![Arduino Code 1](https://user-images.githubusercontent.com/69173660/123162043-fdfc1780-d424-11eb-945d-50c603534dfe.png)
+
+### Video:
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JOaKPQlaxiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+
 
 
 
