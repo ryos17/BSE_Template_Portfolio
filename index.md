@@ -34,4 +34,5 @@ My second milestone was creating the audio spectrum on Processing, and sending t
 ### Processing Code:
 ![Processing code 2](https://user-images.githubusercontent.com/69173660/123169601-5a176980-d42e-11eb-84d6-f41b3e0cdfed.png)
 
-
+### Video:
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/uLhRJsGWr3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br></html>   
