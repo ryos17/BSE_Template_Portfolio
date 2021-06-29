@@ -36,3 +36,8 @@ My second milestone was creating the audio spectrum on Processing, and sending t
 
 ### Video:
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/uLhRJsGWr3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br></html>   
+
+# Final Milestone
+My final milestone was fixing all the bugs that were present and adding customization to my base project. I noticed later on that all of the matrix was not lighting up and showing up correctly. If you look closely to the milestone two video, the last few columns are not lighting up at all. To fix this problem, my instructor and I spent countless hours debugging and trying out a lot of different codes and fixes. What I figured out was that changinfg the serial communication bps changed the output, which made me wonder if changing the bps value can fix the bug. At the end, I was about to give up but luckly, I was able to fix the entire bug by changing one if statement into a while loop. 
+
+Now that my base project is officially finished, I decided to start customizing my project. First, I decided to change the color of each row and create a rainbow depending on the height of each column. This customization was reletively easy by just creating three variable naming it rgb1, rgb2, and rgb3. Then, I just created a long if else statement that declared the correct rgb values depending on the row. 
