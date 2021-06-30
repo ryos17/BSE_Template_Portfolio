@@ -43,8 +43,12 @@ My final milestone was fixing all the bugs that were present and adding customiz
 Now that my base project is officially finished, I decided to start customizing my project. First, I decided to change the color of each row and create a rainbow depending on the height of each column. This customization was reletively easy by just creating three variable naming it rgb1, rgb2, and rgb3. Then, I just created a long if else statement that declared the correct rgb values depending on the row. Next customization I decided to create was taking the stereo mix input (computer line out) and displaying on matrix instead of the mics line in. I was able to easily create this modification by using sound lists and declaring a specific sound device whichw as the stereo mix.
 
 The final customization I decided to create was using a 4x4 keypad to control various parameters of the matrix. I first downloaded the correct Keypad library and decided to experiment with example codes on the internet for reference. With a simple copy paste code, I was able to get the keypad to work no problem. Now it was sending the information from arduino to processing. One problem I thought I will encounter is that sending information to processing will be impossible while data is sent the other way simultaneously. Thankfully, this problem was not present. Also, another struggle creating my final customization was changing the keypad input (char) to the correct index of the audio device (int). With a few console logs and debugging, I was able to sucessfully map out the keypad so each button controls a unique part of the matrix. I have attached a picture of the final circuit, mapping of the keypad, and the final code pdf for arduino and processing.
+
 ### Final Circuit:
 ![circuit 2](https://user-images.githubusercontent.com/69173660/124025322-25169400-d9a5-11eb-9649-cb34095b18fb.png)
+
+### Mapped Keypad
+![Mapped keypad](https://user-images.githubusercontent.com/69173660/124028592-07e3c480-d9a9-11eb-99d9-9918e2fd6a4d.png)
 
 ### Final Arduino Code:
 [Arduino Final Code.pdf](https://github.com/ryos17/RyotaSato_BSE_Portfolio/files/6743799/Arduino.Final.Code.pdf)
