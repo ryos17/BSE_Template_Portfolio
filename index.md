@@ -58,6 +58,7 @@ The final customization I decided to create was using a 4x4 keypad to control va
 [Processing Final Code.pdf](https://github.com/ryos17/RyotaSato_BSE_Portfolio/files/6743806/Processing.Final.Code.pdf)
 
 ### Final Milestone Video:
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/ILeHaNTYxKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br></html> 
 
 # Conclusion
 All in all, I learned a lot about engineering through working on this project. In the beginning, I had no idea about Arduino, libraries, and the specific codes that are unique to the program. At the end of the project, I can now fully understand the hardware and lines of code to create any project. Also, the project made me realize that I love working in fields that combine music and engineering. One overarching bug that is still present in this project is that if I switch between the audio inputs too much by using keypads, the program crashes. Even after hours of debugging and searching through the internet, I could not find any resolutions. In the future, I want to fix this bug and attempt to complete more difficult projects. 
